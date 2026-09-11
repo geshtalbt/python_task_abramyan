@@ -1,0 +1,6 @@
+V1 = float(input('Speed of the first car (V1): '))
+V2 = float(input('Speed of the second car (V2): '))
+S = float(input('Distance between the two cars (S): '))
+T = float(input('Time between the two cars (T): '))
+distance = S + (V1 + V2) * T
+print(f'The distance between the two cars after time {T} is: {round(distance, 2)}')

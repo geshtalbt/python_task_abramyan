@@ -1,0 +1,10 @@
+X = float(input('Kg of chocolate candy: '))
+A = float(input('Cost of chocolate candy: '))
+Y = float(input('Kg of caramel candy: '))
+B = float(input('Cost of caramel candy: '))
+price_per_kg_chocolate = A / X
+price_per_kg_caramel = B / Y
+ratio = price_per_kg_chocolate / price_per_kg_caramel
+print('Cost for 1 kg of chocolate candy = ', round(price_per_kg_chocolate, 2))
+print('Cost for 1 kg of caramel candy = ', round(price_per_kg_caramel, 2))
+print(f'Ratio of chocolate candy to caramel candy = ', round(ratio, 2))

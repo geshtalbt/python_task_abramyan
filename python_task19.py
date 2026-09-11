@@ -1,0 +1,8 @@
+x1 = float(input('enter x1: '))
+x2 = float(input('enter x2: '))
+y1 = float(input('enter y1: '))
+y2 = float(input('enter y2: '))
+S = abs((x2 - x1) * (y2 - y1))
+P = 2 * (abs(x2 - x1) + abs(y2 - y1))
+print('The area of the rectangle is: ', round(S, 2))
+print('The perimeter of the rectangle is: ', round(P, 2))

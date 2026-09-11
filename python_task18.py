@@ -1,0 +1,10 @@
+A = float(input('Enter A number: '))
+B = float(input('Enter B number: '))
+C = float(input('Enter C number: '))
+if C > A and C < B:
+    AC = (abs(C - A))
+    BC = (abs(C - B))
+    print('The length of the segment AC is: ', round(AC, 2))
+    print('The length of the segment BC is: ', round(BC, 2))
+else:
+    print('C should be between A and B')
