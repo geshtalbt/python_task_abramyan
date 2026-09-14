@@ -5,6 +5,8 @@ if a==0 or b==0:
 minus = a**a - b**b
 plus = a**a + b**b
 division = a**a / b**b
+multiply = a**a * b**b
 print('minus = ', minus)
 print('plus = ', plus)
 print('division = ', division)
+print('multiply = ', multiply)
