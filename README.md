@@ -124,6 +124,6 @@ This is for my college teacher homework
 | 25 | Первое число Фибоначчи, большее N | python_while25.py |
 | 26 | Соседние числа Фибоначчи для данного числа Фибоначчи N | python_while26.py |
 | 27 | Порядковый номер K числа Фибоначчи N | python_while27.py |
-| 28 | Номер K, при котором |AK − AK-1| < ε, для A1=2, AK=2+1/AK-1 | python_while28.py |
-| 29 | Номер K, при котором |AK − AK-1| < ε, для A1=1, A2=2, AK=(AK-2+2·AK-1)/3 | python_while29.py |
+| 28 | Номер K, при котором AK − AK-1 < ε, для A1=2, AK=2+1/AK-1 | python_while28.py |
+| 29 | Номер K, при котором AK − AK-1 < ε, для A1=1, A2=2, AK=(AK-2+2·AK-1)/3 | python_while29.py |
 | 30 | Количество квадратов со стороной C на прямоугольнике A×B (без умножения/деления) | python_while30.py |
