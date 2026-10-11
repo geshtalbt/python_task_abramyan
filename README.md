@@ -4,10 +4,14 @@
 
 ## Структура репозитория
 
-| Папка | Содержание |
-|-------|------------|
-| [python_integer](python_integer/) | Задачи раздела Integer (Integer1–Integer30) |
-| [python_for](python_for/) | Задачи на цикл `for` |
-| [python_while](python_while/) | Задачи на цикл `while` |
-| [python_series](python_series/) | Задачи на последовательности |
-| [python_tasks](python_tasks/) | Остальные задачи (`python_task1.py` … `python_task40.py`) |
+| Раздел задачника | Папка |
+|------------------|-------|
+| Integer — целые числа | [python_integer](./python_integer) |
+| Boolean — логические выражения | [python_boolean](./python_boolean) |
+| If — условный оператор | [python_if](./python_if) |
+| Case — оператор выбора | [python_case](./python_case) |
+| For — цикл с параметром | [python_for](./python_for) |
+| While — цикл с условием | [python_while](./python_while) |
+| Series — ряды и последовательности | [python_series](./python_series) |
+| Proc — процедуры и функции | [python_proc](./python_proc) |
+| Begin - начальные задания | [python_tasks](./python_tasks) |
